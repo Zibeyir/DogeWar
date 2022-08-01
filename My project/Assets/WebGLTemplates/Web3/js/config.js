@@ -1,0 +1,7 @@
+window.web3ChainId = 97;
+window.dogWarConfig = {
+  gameAddress: "0x75f1bE481b17107d9376009687F2CBF1F6D46DcA",
+  paymentToken: "0x385aeA348536a0Db02314047Bb9cd9Feac6507EB",
+  gamePrice: "30000000000000000000000000",
+  gameAllowance: "10000000000000000000000000000000000000",
+};
